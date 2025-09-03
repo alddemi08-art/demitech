@@ -22,7 +22,7 @@ const Contact = () => {
           <div className="bg-black/40 backdrop-blur-md p-6 rounded-2xl shadow-lg flex flex-col items-center hover:shadow-cyan-500/50 transition-all duration-300">
             <FaEnvelope size={40} className="text-cyan-400 mb-4" />
             <h3 className="text-xl font-semibold mb-2">Email</h3>
-            <p>alddemi08.com</p>
+            <p>alddemi08@gmail.com</p>
           </div>
 
           {/* Facebook */}
